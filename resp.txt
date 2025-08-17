@@ -1,0 +1,34 @@
+1 - b) Um sistema que percebe o ambiente e age para maximizar seu desempenho
+2 - c) Performance, Ambiente, Atuadores, Sensores
+3 - c) Fabricação de móveis artesanais sem máquinas
+4 - a) Agente reflexivo simples
+5 - b) Um ambiente de trânsito real com múltiplos veículos
+6 - c) Impacto ambiental do uso de energias renováveis
+7 - a) Década de 1950
+8 - c) A falta de progresso significativo e cortes de financiamento
+9 - b) Redes Neurais Convolucionais (CNNs)
+10 - b) A IA pode ser usada para criar deepfakes e espalhar desinformação
+11 - Agente racional escolhe ações que maximizam o desempenho com base em percepções e conhecimento
+12 - Diagnóstico médico por imagem; Sistemas preditivos de tratamento
+13 - Totalmente observável: todas as informações disponíveis; Parcialmente observável: informações limitadas
+14 - Positivo: produtividade; Negativo: desemprego tecnológico
+15 - Permitiu sistemas aprenderem padrões sem depender de regras fixas
+16 - b) Eles tomam decisões apenas com base na percepção atual do ambiente
+17 - c) Mantêm uma representação interna do estado do ambiente
+18 - d) Agente que aprende
+19 - b) Eles são sempre mais eficientes do que agentes baseados em objetivos (INCORRETO)
+20 - c) Agentes reflexivos simples podem ser ineficientes em ambientes dinâmicos
+21 - c) Há incerteza nas transições entre estados
+22 - a) Jogo de xadrez
+23 - a) No ambiente discreto, há um número finito de ações possíveis
+24 - a) Um jogo de pôquer
+25 - b) Controle de tráfego em tempo real
+26 - Agente baseado em objetivos busca metas; baseado em utilidade avalia níveis de sucesso
+27 - Exemplo: carro autônomo que aprende com dados de tráfego
+28 - Ineficiência porque só usam percepção atual, sem histórico
+29 - Determinístico: mesma ação = mesmo resultado; Estocástico: resultados incertos
+30 - Contínuo: carro autônomo; Discreto: xadrez
+31 - b) Método para determinar se uma máquina pode exibir comportamento inteligente equivalente ao humano
+32 - Básico: reflexivo simples; Avançado: que aprende | Diferenças: fixo x aprendizado | Desafios: privacidade, viés, custo
+33 - Primeira versão: baseado em objetivos; Segunda: baseado em utilidade | Influência: modelagem melhora precisão | Melho34 Parcialmente observável, dinâmico e estocástico | Solução: probabilidades/aprendizado | Desafios: motoristas/pedestres im
+35 - d) Agente baseado em utilidade, pois pode calcular a melhor rota considerando eficiência, tempo e segurança
